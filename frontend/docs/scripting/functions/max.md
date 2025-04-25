@@ -2,7 +2,7 @@
 title: max
 sidebar_label: max
 description: Return the highest of two numbers.
-tags: ["core"]
+tags: ["8"]
 ---
 
 <LowercaseNote />
